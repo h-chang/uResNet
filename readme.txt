@@ -1,3 +1,5 @@
+Source code for "Deep Unitary Convolutional Neural Networks."
+
 """
 Released under BSD 3-Clause License,
 Modifications are Copyright (c) 2021 Hao-Yuan Chang
